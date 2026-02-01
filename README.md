@@ -38,7 +38,7 @@ Each branch is a standalone EFI. **The correct version of `AirportItlwm.kext` fo
 ### 1. Prepare your EFI
 
 * Download the branch matching your macOS version
-* Use **GenSMBIOS** to generate a unique Serial, Board Serial, and UUID
+* Use **GenSMBIOS** to generate a unique Serial, Board Serial, and UUID, **you need to put your own ROM from your ethernet**
 * Add them to `config.plist` under `PlatformInfo -> Generic`
 
 ### 2. Graphics Acceleration (Ventura & Newer)
@@ -52,7 +52,7 @@ Apple dropped native support for these GPUs in newer versions. Hardware accelera
 
 ### 3. Touchscreen (T-models)
 
-If you have a **Z30T**, touchscreen will never work, sorry
+If you have a **Z30T** model, touchscreen will never work, sorry
 
 ---
 
