@@ -53,9 +53,27 @@ Apple dropped native support for these GPUs in newer versions. Hardware accelera
 3. Run **"Post-Install Root Patch"**
 4. Reboot
 
-### 3. Touchscreen (T-models)
+### 3. What works / What doesn't
 
-If you have a **Z30T** model, touchscreen will never work, sorry
+## ✅ What Works
+
+* **Graphics:** Full acceleration (Native up to Monterey, OCLP for Ventura+)
+* **Audio:** Internal speakers, microphone, and 3.5mm combo jack (with ComboJack)
+* **Wi-Fi & Bluetooth:** Intel AC-7260/7265 (Pre-configured in each branch)
+* **Keyboard:** Full support including volume and brightness shortcuts
+* **Trackpad/Touchscreen:** Multi-touch gestures
+* **Battery:** Accurate percentage and status
+* **USB Ports:** All ports mapped and working at USB 3.0 speeds
+* **Ethernet:** Intel Gigabit LAN
+* **Sleep/Wake:** Working (Proper lid wake support)
+* **HDMI:** Video and Audio out
+* **SD Card Reader:** May be unstable or slow (Realtek PCI reader limitation)
+
+## ❌ What Doesn't / Known Issues
+
+* **VGA Port:** Not supported (macOS does not support analog VGA output on Intel IGPU)
+* **AirDrop/Handoff:** One-way only (Intel Wi-Fi limitation; for 100% support, a Broadcom card swap is needed)
+* **Fingerprint Sensor:** Not supported (No drivers for macOS)
 
 ---
 
