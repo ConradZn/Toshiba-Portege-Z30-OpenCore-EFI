@@ -1,5 +1,5 @@
 # OpenCore 1.0.6 EFI for Toshiba Portege 
-# Z30T Series & Z30-A/B/C) Series
+# Z30T Series & Z30-A/B/C Series
 
 <img width="6912" height="3456" alt="Banner" src="https://github.com/user-attachments/assets/13a3c5db-066d-41de-9f95-0fd05d056e38" />
 
