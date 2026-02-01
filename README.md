@@ -1,7 +1,7 @@
 # OpenCore 1.0.6 EFI for Toshiba Portege 
 # Z30/T Series (Z30-A / B / C) Series
 
-![Uploading Snímek obrazovky 2026-02-01 v 12.59.39.png…]()
+<img width="6912" height="3456" alt="Banner" src="https://github.com/user-attachments/assets/6ba4b5c9-27f9-4262-b03c-1891bbe7fdd1" />
 
 This repository provides highly optimized OpenCore EFI configurations for the entire Toshiba Portege Z30 series. To ensure "out-of-the-box" functionality (including Wi-Fi), **please download the branch corresponding to your target macOS version.**
 
