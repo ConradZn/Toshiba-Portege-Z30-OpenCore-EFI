@@ -2,6 +2,8 @@
 
 This repository provides highly optimized OpenCore EFI configurations for the entire Toshiba Portege Z30 series. To ensure "out-of-the-box" functionality (including Wi-Fi), **please download the branch corresponding to your target macOS version.**
 
+<img width="1920" height="1080" alt="Pink Black Gradient Motivational Desktop Wallpaper " src="https://github.com/user-attachments/assets/23c84d72-d084-42f8-8a81-829188b1a12a" />
+
 ## 💻 Supported Models & Hardware
 
 The Z30 series spans three CPU generations. Choose your SMBIOS based on your specific model:
